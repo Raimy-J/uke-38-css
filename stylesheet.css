@@ -1,0 +1,18 @@
+.big_hr{
+    height: 10px ;
+    background-color: #cccc99;
+    border-color: #cccc99;
+    border-width: 2px;
+    border-style: outset;
+}
+
+#img_right{
+    width: 86px;
+    height: 86px;
+}
+
+#img_left{
+    width: 111px;
+    height: 64px;
+}
+
